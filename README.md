@@ -1,4 +1,4 @@
-# filter-only-english-written-jobs-in-xing.com
+# Filter only English language job posts in xing.com
 I wrote a script for xing.com to ignore the German language job posts and also remove the repetitive ones(based on the title and the company name) to reduce distraction and save time.
 
 ## How to use it?
